@@ -1,0 +1,52 @@
+body
+{
+  background: #ccc;
+  margin: 0;
+  padding: 0;
+}
+
+header
+{
+  background: #fff;
+  width: 800px;
+  padding: 10px;
+  margin: 0px auto;
+
+}
+
+.container
+{
+  background: #fff;
+  width: 800px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: lime;
+}
+
+.img_container
+{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  border-radius: 20px;
+  border: 2px solid gray;
+  margin: 15px;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+button
+{
+  width: 40%;
+  height: 40px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: lime;
+  color: white;
+  font-weight: bold;
+  border: none;
+  font-size: 20px;
+}
